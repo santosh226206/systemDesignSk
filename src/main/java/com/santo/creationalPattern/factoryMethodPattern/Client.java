@@ -1,4 +1,4 @@
-package factoryMethodPattern;
+package com.santo.creationalPattern.factoryMethodPattern;
 
 public class Client {
     private Logger logger;

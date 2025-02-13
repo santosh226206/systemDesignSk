@@ -1,6 +1,6 @@
-package factoryMethodPattern.implementation;
+package com.santo.creationalPattern.factoryMethodPattern.implementation;
 
-import factoryMethodPattern.Logger;
+import com.santo.creationalPattern.factoryMethodPattern.Logger;
 
 public class FileLogger implements Logger {
     @Override

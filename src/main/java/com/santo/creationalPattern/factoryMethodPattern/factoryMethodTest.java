@@ -1,4 +1,4 @@
-package factoryMethodPattern;
+package com.santo.creationalPattern.factoryMethodPattern;
 
 public class factoryMethodTest {
     public static void main(String[] args) {

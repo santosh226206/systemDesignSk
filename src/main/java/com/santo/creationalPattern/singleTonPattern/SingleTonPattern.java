@@ -1,4 +1,4 @@
-package com.santo.creationalPattern;
+package com.santo.creationalPattern.singleTonPattern;
 
 public class SingleTonPattern {
     // Private constructor to prevent instantiation

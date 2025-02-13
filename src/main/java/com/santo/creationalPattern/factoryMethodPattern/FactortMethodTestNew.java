@@ -1,6 +1,6 @@
-package factoryMethodPattern;
+package com.santo.creationalPattern.factoryMethodPattern;
 
-import factoryMethodPattern.factoryImplemenTation.consoleLoggerFactory;
+import com.santo.creationalPattern.factoryMethodPattern.factoryImplemenTation.consoleLoggerFactory;
 
 public class FactortMethodTestNew {
     public static void main(String[] args) {
